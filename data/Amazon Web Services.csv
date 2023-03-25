@@ -1,0 +1,21 @@
+User Name,Repo Name,Stars,Repo URL
+localstack,localstack,46300,https://github.com/localstack/localstack
+serverless,serverless,44400,https://github.com/serverless/serverless
+bregman-arie,devops-exercises,41700,https://github.com/bregman-arie/devops-exercises
+donnemartin,data-science-ipython-notebooks,24800,https://github.com/donnemartin/data-science-ipython-notebooks
+pulumi,pulumi,15400,https://github.com/pulumi/pulumi
+ramitsurana,awesome-kubernetes,13700,https://github.com/ramitsurana/awesome-kubernetes
+kubernetes-sigs,kubespray,13700,https://github.com/kubernetes-sigs/kubespray
+aws,aws-cli,13600,https://github.com/aws/aws-cli
+serverless-stack,sst,12700,https://github.com/serverless-stack/sst
+mozilla,sops,12500,https://github.com/mozilla/sops
+donnemartin,awesome-aws,11300,https://github.com/donnemartin/awesome-aws
+caprover,caprover,10100,https://github.com/caprover/caprover
+apereo,cas,10000,https://github.com/apereo/cas
+aws,aws-cdk,10000,https://github.com/aws/aws-cdk
+GoogleCloudPlatform,terraformer,9800,https://github.com/GoogleCloudPlatform/terraformer
+aws,chalice,9600,https://github.com/aws/chalice
+aws-amplify,amplify-js,9200,https://github.com/aws-amplify/amplify-js
+aws,serverless-application-model,9000,https://github.com/aws/serverless-application-model
+google,go-cloud,8900,https://github.com/google/go-cloud
+infracost,infracost,8800,https://github.com/infracost/infracost

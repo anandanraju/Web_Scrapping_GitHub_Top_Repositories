@@ -1,0 +1,21 @@
+User Name,Repo Name,Stars,Repo URL
+localstack,localstack,46300,https://github.com/localstack/localstack
+harness,drone,26600,https://github.com/harness/drone
+jenkinsci,jenkins,20500,https://github.com/jenkinsci/jenkins
+auchenberg,volkswagen,12600,https://github.com/auchenberg/volkswagen
+theonedev,onedev,11000,https://github.com/theonedev/onedev
+openshift,origin,8300,https://github.com/openshift/origin
+dagger,dagger,7900,https://github.com/dagger/dagger
+concourse,concourse,6800,https://github.com/concourse/concourse
+gocd,gocd,6700,https://github.com/gocd/gocd
+gaia-pipeline,gaia,5000,https://github.com/gaia-pipeline/gaia
+buildbot,buildbot,5000,https://github.com/buildbot/buildbot
+milanm,DevOps-Roadmap,4600,https://github.com/milanm/DevOps-Roadmap
+Strider-CD,strider,4600,https://github.com/Strider-CD/strider
+jenkins-x,jx,4400,https://github.com/jenkins-x/jx
+ovh,cds,4100,https://github.com/ovh/cds
+xcpretty,xcpretty,3800,https://github.com/xcpretty/xcpretty
+hygieia,hygieia,3800,https://github.com/hygieia/hygieia
+iterative,cml,3700,https://github.com/iterative/cml
+werf,werf,3600,https://github.com/werf/werf
+JamesIves,github-pages-deploy-action,3600,https://github.com/JamesIves/github-pages-deploy-action

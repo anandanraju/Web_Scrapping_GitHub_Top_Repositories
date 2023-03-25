@@ -1,0 +1,21 @@
+User Name,Repo Name,Stars,Repo URL
+vercel,next.js,103000,https://github.com/vercel/next.js
+rust-lang,rust,79300,https://github.com/rust-lang/rust
+sveltejs,svelte,66500,https://github.com/sveltejs/svelte
+webpack,webpack,62800,https://github.com/webpack/webpack
+gatsbyjs,gatsby,54300,https://github.com/gatsbyjs/gatsby
+JetBrains,kotlin,44200,https://github.com/JetBrains/kotlin
+parcel-bundler,parcel,42200,https://github.com/parcel-bundler/parcel
+babel,babel,42100,https://github.com/babel/babel
+evanw,esbuild,34900,https://github.com/evanw/esbuild
+vlang,v,33200,https://github.com/vlang/v
+carbon-language,carbon-lang,30000,https://github.com/carbon-language/carbon-lang
+markedjs,marked,29300,https://github.com/markedjs/marked
+swc-project,swc,26700,https://github.com/swc-project/swc
+vercel,pkg,23000,https://github.com/vercel/pkg
+v8,v8,21000,https://github.com/v8/v8
+ziglang,zig,20700,https://github.com/ziglang/zig
+AssemblyScript,assemblyscript,15300,https://github.com/AssemblyScript/assemblyscript
+nim-lang,Nim,14800,https://github.com/nim-lang/Nim
+RustPython,RustPython,14600,https://github.com/RustPython/RustPython
+Konloch,bytecode-viewer,13600,https://github.com/Konloch/bytecode-viewer
